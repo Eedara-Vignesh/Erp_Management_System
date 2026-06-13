@@ -1,0 +1,17 @@
+com\example\erp_management_system\controller\ProductController.class
+com\example\erp_management_system\controller\UserController.class
+com\example\erp_management_system\entity\Inventory.class
+com\example\erp_management_system\service\ProductService.class
+com\example\erp_management_system\ErpManagementSystemApplication.class
+com\example\erp_management_system\service\UserService.class
+com\example\erp_management_system\repository\ProductRepository.class
+com\example\erp_management_system\repository\InventoryRepository.class
+com\example\erp_management_system\controller\InventoryController.class
+com\example\erp_management_system\controller\SupplierController.class
+com\example\erp_management_system\entity\Product.class
+com\example\erp_management_system\repository\SupplierRepository.class
+com\example\erp_management_system\repository\UserRepository.class
+com\example\erp_management_system\service\InventoryService.class
+com\example\erp_management_system\entity\Supplier.class
+com\example\erp_management_system\service\SupplierService.class
+com\example\erp_management_system\entity\User.class
